@@ -7,5 +7,6 @@ lecture notes and problem set, and explain important facts about PPO using modif
 by OpenAI and Gymnasium to train and run a host of classical reinforcment learning benchmarks.
 
 To run the provided code, please follow the installation instructions provided by CleanRL https://github.com/vwxyzjn/cleanrl 
+Once the package requirements are met the python files can be run directly.
 
 
