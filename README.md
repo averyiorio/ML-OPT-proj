@@ -1,6 +1,6 @@
 
 Code supplement for comparing Proximal Policy Optimization and REINFORCE for a pedeogical project on PPO for Machine Learning and Optimization 4968
-Authors Christopher Metcalfe, Avery Iorio, and Pratul
+Authors Christopher Metcalfe and Avery Iorio.
 
 Since this is only a pedegogical project we focused primarily on using the code to supplement our
 lecture notes and problem set, and explain important facts about PPO using modifications of existing code supplied
